@@ -5,7 +5,11 @@
 교육기간: 2025-06-23 ~ 2025-11-12
 
 ### 교육내용
-
+생성형 AI 프롬프트
+머신러닝 + 딥러닝 이론
+Google Cloud Platform
+LangChain
+LangGraph
 
 
 ### Object Detection Miniproject
